@@ -79,6 +79,7 @@ O notebook está organizado em quatro seções:
 .
 ├── mini_projeto_modulo_I.ipynb   # Notebook com a análise
 ├── Base Varejo.csv               # Conjunto de dados
+├── df_consolidado.csv            # Dataframe limpo
 └── README.md
 ```
 

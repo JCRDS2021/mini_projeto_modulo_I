@@ -99,5 +99,5 @@ O notebook está organizado em quatro seções:
 
 ## Autor
 
-**Seu Nome**
-[LinkedIn](https://www.linkedin.com/in/SEU_PERFIL) · [GitHub](https://github.com/SEU_USUARIO)
+**Jean Carlos Rodrigues**
+[LinkedIn](https://www.linkedin.com/in/jeanrodrigues97/) · [GitHub](https://github.com/JCRDS2021)

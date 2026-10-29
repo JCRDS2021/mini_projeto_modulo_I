@@ -66,10 +66,6 @@ O notebook está organizado em quatro seções:
 - **Linhas idênticas = compras repetidas.** Linhas totalmente iguais foram tratadas como o mesmo produto levado mais de uma vez na mesma compra, e não como erro de registro. Essa interpretação não pode ser confirmada apenas com os dados.
 - **Número de filhos constante por cliente.** Assume-se que `CL_FHL` é sempre o mesmo para um mesmo `CL_ID`, por isso o uso de `.first()`. O notebook contém uma célula que valida essa premissa.
 
-## Principais resultados
-
-> _Complete esta seção com as conclusões da sua análise (por exemplo: total de linhas duplicadas e quantas linhas restaram após a consolidação, qual gênero comprou mais itens, distribuição de clientes por número de filhos)._
-
 ## Tecnologias utilizadas
 
 - Python 3
